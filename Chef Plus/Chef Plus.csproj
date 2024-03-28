@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{97775D99-9ABF-4DFE-8D09-8C2EED8E0A26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Chef_Plus</RootNamespace>
+    <AssemblyName>Chef Plus</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>chef__1__EAR_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Chef_Plus.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ChefPlus.core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ChefPlus.core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.TreeMap.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v22.2.UI, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v22.2.Wizard, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.2.Win, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v22.2.Core.Desktop, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeMap.v22.2.UI, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeMap.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FirebirdSql.Data.FirebirdClient, Version=6.6.0.0, Culture=neutral, PublicKeyToken=3750abcc3150b00c, processorArchitecture=MSIL">
+      <HintPath>..\packages\FirebirdSql.Data.FirebirdClient.6.6.0\lib\net452\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql, Version=4.0.6.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Npgsql.4.0.6\lib\net451\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard1.1\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.2\lib\netstandard1.1\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_cadastro_combo_item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_combo_item.Designer.cs">
+      <DependentUpon>frm_cadastro_combo_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_categorias_contas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_categorias_contas.Designer.cs">
+      <DependentUpon>frm_cadastro_categorias_contas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_fornecedor.Designer.cs">
+      <DependentUpon>frm_cadastro_fornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_combo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_combo.Designer.cs">
+      <DependentUpon>frm_cadastro_combo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_caixa_fechar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_caixa_fechar.Designer.cs">
+      <DependentUpon>frm_caixa_fechar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_caixa_lancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_caixa_lancamento.Designer.cs">
+      <DependentUpon>frm_caixa_lancamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_caixa.Designer.cs">
+      <DependentUpon>frm_caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_categorias_contas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_categorias_contas.Designer.cs">
+      <DependentUpon>frm_categorias_contas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_caixa_historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_caixa_historico.Designer.cs">
+      <DependentUpon>frm_caixa_historico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_consulta_produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_consulta_produto.Designer.cs">
+      <DependentUpon>frm_consulta_produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_fornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_fornecedores.Designer.cs">
+      <DependentUpon>frm_fornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_lanca_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_lanca_produtos.Designer.cs">
+      <DependentUpon>frm_lanca_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mesas.Designer.cs">
+      <DependentUpon>frm_mesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_mesas_pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mesas_pedido.Designer.cs">
+      <DependentUpon>frm_mesas_pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_usuarios.designer.cs">
+      <DependentUpon>frm_usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemAdmin.cs" />
+    <Compile Include="frm_add_insumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_add_insumo.Designer.cs">
+      <DependentUpon>frm_add_insumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_forma_pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_forma_pagamento.designer.cs">
+      <DependentUpon>frm_cadastro_forma_pagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_lancar_credito_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_lancar_credito_cliente.Designer.cs">
+      <DependentUpon>frm_lancar_credito_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_categoria.Designer.cs">
+      <DependentUpon>frm_cadastro_categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_cliente.Designer.cs">
+      <DependentUpon>frm_cadastro_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_complemento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_complemento.Designer.cs">
+      <DependentUpon>frm_cadastro_complemento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_produto_personalizado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_produto_personalizado.Designer.cs">
+      <DependentUpon>frm_cadastro_produto_personalizado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_tamanho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_tamanho.Designer.cs">
+      <DependentUpon>frm_cadastro_tamanho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_bandeira.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_bandeira.Designer.cs">
+      <DependentUpon>frm_cadastro_bandeira.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_tipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_tipo.Designer.cs">
+      <DependentUpon>frm_cadastro_tipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_observacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_observacao.Designer.cs">
+      <DependentUpon>frm_cadastro_observacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_insumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_insumo.Designer.cs">
+      <DependentUpon>frm_cadastro_insumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_clientes.Designer.cs">
+      <DependentUpon>frm_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_formas_pagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_formas_pagamento.Designer.cs">
+      <DependentUpon>frm_formas_pagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_observacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_observacoes.Designer.cs">
+      <DependentUpon>frm_observacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_categorias.Designer.cs">
+      <DependentUpon>frm_categorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_produto.Designer.cs">
+      <DependentUpon>frm_cadastro_produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_usuario.Designer.cs">
+      <DependentUpon>frm_cadastro_usuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ddd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ddd.Designer.cs">
+      <DependentUpon>frm_ddd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_estoque.Designer.cs">
+      <DependentUpon>frm_estoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_network.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_network.Designer.cs">
+      <DependentUpon>frm_network.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.Designer.cs">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_complementos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_complementos.Designer.cs">
+      <DependentUpon>frm_complementos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_insumos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_insumos.Designer.cs">
+      <DependentUpon>frm_insumos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_produtos.Designer.cs">
+      <DependentUpon>frm_produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_tt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_tt.Designer.cs">
+      <DependentUpon>frm_tt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ini.cs" />
+    <Compile Include="IniGravar.cs" />
+    <Compile Include="ListTamanhos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListTamanhos.Designer.cs">
+      <DependentUpon>ListTamanhos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl_Complementos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_Complementos.Designer.cs">
+      <DependentUpon>UserControl_Complementos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaitForm.designer.cs">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frm_cadastro_combo_item.resx">
+      <DependentUpon>frm_cadastro_combo_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_add_insumo.resx">
+      <DependentUpon>frm_add_insumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_categorias_contas.resx">
+      <DependentUpon>frm_cadastro_categorias_contas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_fornecedor.resx">
+      <DependentUpon>frm_cadastro_fornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_combo.resx">
+      <DependentUpon>frm_cadastro_combo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_caixa_fechar.resx">
+      <DependentUpon>frm_caixa_fechar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_caixa_lancamento.resx">
+      <DependentUpon>frm_caixa_lancamento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_caixa.resx">
+      <DependentUpon>frm_caixa.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_forma_pagamento.resx">
+      <DependentUpon>frm_cadastro_forma_pagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_caixa_historico.resx">
+      <DependentUpon>frm_caixa_historico.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_consulta_produto.resx">
+      <DependentUpon>frm_consulta_produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_fornecedores.resx">
+      <DependentUpon>frm_fornecedores.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_lancar_credito_cliente.resx">
+      <DependentUpon>frm_lancar_credito_cliente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_categoria.resx">
+      <DependentUpon>frm_cadastro_categoria.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_cliente.resx">
+      <DependentUpon>frm_cadastro_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_complemento.resx">
+      <DependentUpon>frm_cadastro_complemento.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_produto_personalizado.resx">
+      <DependentUpon>frm_cadastro_produto_personalizado.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_tamanho.resx">
+      <DependentUpon>frm_cadastro_tamanho.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_bandeira.resx">
+      <DependentUpon>frm_cadastro_bandeira.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_tipo.resx">
+      <DependentUpon>frm_cadastro_tipo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_observacao.resx">
+      <DependentUpon>frm_cadastro_observacao.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_insumo.resx">
+      <DependentUpon>frm_cadastro_insumo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_clientes.resx">
+      <DependentUpon>frm_clientes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_formas_pagamento.resx">
+      <DependentUpon>frm_formas_pagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_lanca_produtos.resx">
+      <DependentUpon>frm_lanca_produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mesas.resx">
+      <DependentUpon>frm_mesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mesas_pedido.resx">
+      <DependentUpon>frm_mesas_pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_observacoes.resx">
+      <DependentUpon>frm_observacoes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_categorias.resx">
+      <DependentUpon>frm_categorias.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_produto.resx">
+      <DependentUpon>frm_cadastro_produto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_usuario.resx">
+      <DependentUpon>frm_cadastro_usuario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ddd.resx">
+      <DependentUpon>frm_ddd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_estoque.resx">
+      <DependentUpon>frm_estoque.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_network.resx">
+      <DependentUpon>frm_network.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_complementos.resx">
+      <DependentUpon>frm_complementos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_insumos.resx">
+      <DependentUpon>frm_insumos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_produtos.resx">
+      <DependentUpon>frm_produtos.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_tt.resx">
+      <DependentUpon>frm_tt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_categorias_contas.resx">
+      <DependentUpon>frm_categorias_contas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_usuarios.resx">
+      <DependentUpon>frm_usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListTamanhos.resx">
+      <DependentUpon>ListTamanhos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl_Complementos.resx">
+      <DependentUpon>UserControl_Complementos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaitForm.resx">
+      <DependentUpon>WaitForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="chef__1__EAR_icon.ico" />
+    <None Include="Resources\Rolling-1s-200px.gif" />
+    <None Include="Resources\22015245_1431270593608723_830791208_o.png" />
+    <None Include="Resources\junk-food.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\produto_selecionar.png" />
+    <None Include="Resources\produto_procurar.png" />
+    <None Include="Resources\metade.png" />
+    <None Include="Resources\complementos.png" />
+    <None Include="Resources\ellipsis.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\clock.png" />
+    <None Include="Resources\factory.png" />
+    <None Include="Resources\locked_blue.png" />
+    <None Include="Resources\unlocked_blue.png" />
+    <None Include="Resources\cash_register.png" />
+    <None Include="Resources\wallet.png" />
+    <None Include="Resources\clientes.png" />
+    <None Include="Resources\pizza.png" />
+    <None Include="Resources\tt.png" />
+    <None Include="Resources\plus.png" />
+    <None Include="Resources\checklist.png" />
+    <None Include="Resources\price-tag_2.png" />
+    <None Include="Resources\harvest.png" />
+    <None Include="Resources\trash.png" />
+    <None Include="Resources\package.png" />
+    <None Include="Resources\box_checklist.png" />
+    <None Include="Resources\food_default.png" />
+    <None Include="Resources\menu.png" />
+    <None Include="Resources\note.png" />
+    <None Include="Resources\cheese.png" />
+    <None Include="Resources\identify.png" />
+    <None Include="Resources\fast_food.png" />
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\icon_round_green.png" />
+    <None Include="Resources\icon_round_red.png" />
+    <None Include="Resources\garbage.png" />
+    <None Include="Resources\add_button.png" />
+    <None Include="Resources\boy.png" />
+    <None Include="Resources\magnifying_glass.png" />
+    <None Include="Resources\checked1.png" />
+    <None Include="Resources\arrow_right.png" />
+    <EmbeddedResource Include="files\MySQLInstanceConfig.exe" />
+    <None Include="Resources\hardware_128x128.png" />
+    <None Include="Resources\computer_128x128.png" />
+    <None Include="Resources\monitor_128x128.png" />
+    <None Include="Resources\unlocked %282%29.png" />
+    <None Include="Resources\unlocked %281%29.png" />
+    <None Include="Resources\locked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

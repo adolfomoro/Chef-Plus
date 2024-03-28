@@ -1,0 +1,237 @@
+﻿
+Log Detalhes: 00:29:47 quinta-feira, 22 de setembro de 2022
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 00:29:47 quinta-feira, 22 de setembro de 2022
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 00:32:09 quinta-feira, 22 de setembro de 2022
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 00:32:09 quinta-feira, 22 de setembro de 2022
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 00:32:15 quinta-feira, 22 de setembro de 2022
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 00:32:15 quinta-feira, 22 de setembro de 2022
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 16:50:58 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:50:58 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 16:52:40 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:52:40 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 16:54:20 segunda-feira, 23 de janeiro de 2023
+: Janela : Seleciona o Tipo de Conexão
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 474
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:54:20 segunda-feira, 23 de janeiro de 2023
+: Janela : Seleciona o Tipo de Conexão
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 474
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:54:20 segunda-feira, 23 de janeiro de 2023
+: Janela : Seleciona o Tipo de Conexão
+:Mensagem: Error Execute SQL
+: Metodo : Boolean ExecuteSql()
+: Linha  : 119
+: Error  : System.InvalidOperationException: Connection must be valid and open.
+   em FirebirdSql.Data.FirebirdClient.FbConnection.EnsureOpen(FbConnection connection)
+   em FirebirdSql.Data.FirebirdClient.FbCommand.CheckCommand()
+   em FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteNonQuery()
+   em ChefPlus.data.ExeSql.ExecuteSql() na H:\Arquivos Sources\Projetos C#\cheplus.core\ChefPlus.core\data.cs:linha 107
+------------------------------------------------------
+
+Log Detalhes: 16:54:20 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:54:20 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 16:55:19 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:55:19 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 16:59:34 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 16:59:34 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 17:02:09 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : I/O error during "CreateFile (open)" operation for file "db_chef"
+Error while trying to open file
+------------------------------------------------------
+
+Log Detalhes: 17:02:09 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544344)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 17:03:10 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : unsupported on-disk structure for file D:\PROJETOS\CHEF PLUS\CHEF PLUS\CHEF PLUS\BIN\DEBUG\DB_CHEF; found 12.0, support 11.2
+------------------------------------------------------
+
+Log Detalhes: 17:03:10 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544379)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------
+
+Log Detalhes: 17:12:06 segunda-feira, 23 de janeiro de 2023
+: Janela : Carregando...
+:Mensagem: Error Connect
+: Metodo : Boolean Connect(Boolean)
+: Linha  : 361
+: Error  : unsupported on-disk structure for file D:\PROJETOS\CHEF PLUS\CHEF PLUS\CHEF PLUS\BIN\DEBUG\DB_CHEF; found 12.0, support 11.2
+------------------------------------------------------
+
+Log Detalhes: 17:12:06 segunda-feira, 23 de janeiro de 2023
+: Janela : Debug
+:Mensagem: Não foi possível efetuar a conexão com o banco de dados. (335544379)
+
+Entre em contato com o suporte técnico.
+: Metodo : Void CheckSsMissingDate()
+: Linha  : 151
+: Error  : 
+------------------------------------------------------

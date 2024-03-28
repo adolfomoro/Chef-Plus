@@ -1,0 +1,1178 @@
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe.config
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\Chef Plus.pdb
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CopyComplete
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+C:\Users\Adolfo\Desktop\Projetos C#\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe.config
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Chef Plus.pdb
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CopyComplete
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+C:\Program Files (x86)\Chef Sistemas\Test\Chef Plus.exe.config
+C:\Program Files (x86)\Chef Sistemas\Test\Chef Plus.exe
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.pdb
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\ChefPlus.core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Adolfo\Desktop\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe.config
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Chef Plus.pdb
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Images.v17.2.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.pdb
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.pdb
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.xml
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\pt-BR\ChefPlus.core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CopyComplete
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+H:\Arquivos Pessoais\Projetos CSharp\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe.config
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Chef Plus.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\pt-BR\ChefPlus.core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CopyComplete
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_ddd.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_produtos.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.WaitForm.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_estoque.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categoria.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_complementos.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_complemento.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_observacao.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_observacoes.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.dll.config
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Npgsql.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Buffers.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Memory.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.ValueTuple.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Npgsql.pdb
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\Npgsql.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Buffers.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Memory.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\System.ValueTuple.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_insumos.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_insumo.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_add_insumo.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_tt.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tipo.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tamanho.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto_personalizado.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.ListTamanhos.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_clientes.resources
+C:\Users\adolf\OneDrive\Área de Trabalho\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_cliente.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe.config
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Chef Plus.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Npgsql.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Buffers.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Memory.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.ValueTuple.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.dll.config
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Npgsql.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\Npgsql.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Buffers.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Memory.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\System.ValueTuple.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\pt-BR\ChefPlus.core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_add_insumo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categoria.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_cliente.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_complemento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto_personalizado.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tamanho.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tipo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_observacao.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_insumo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_clientes.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_observacoes.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_ddd.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_estoque.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_complementos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_insumos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_produtos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_tt.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.ListTamanhos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.WaitForm.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CopyComplete
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_formas_pagamento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_bandeira.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_forma_pagamento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lancar_credito_cliente.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.SplashScreen.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_lancamento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_fechar.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias_contas.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categorias_contas.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_fornecedor.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_fornecedores.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_historico.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas_pedido.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_consulta_produto.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lanca_produtos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl1.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl_Complementos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_add_insumo.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categorias_contas.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_fornecedor.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_fechar.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_lancamento.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_forma_pagamento.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_historico.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_consulta_produto.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_fornecedores.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lancar_credito_cliente.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categoria.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_cliente.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_complemento.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto_personalizado.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tamanho.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_bandeira.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tipo.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_observacao.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_insumo.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_clientes.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_formas_pagamento.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lanca_produtos.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas_pedido.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_observacoes.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_ddd.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_estoque.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_complementos.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_insumos.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_produtos.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_tt.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias_contas.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.ListTamanhos.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.SplashScreen.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl1.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl_Complementos.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.WaitForm.resources
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe.config
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Chef Plus.exe
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Chef Plus.pdb
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Xpo.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Npgsql.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Buffers.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Memory.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.ValueTuple.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Images.v17.2.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.pdb
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ChefPlus.core.dll.config
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Data.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Xpo.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraBars.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.pdb
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Newtonsoft.Json.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Npgsql.pdb
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\Npgsql.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Buffers.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Memory.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\System.ValueTuple.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\DevExpress.Office.v17.2.Core.xml
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\pt-BR\ChefPlus.core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CopyComplete
+H:\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo_item.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csprojAssemblyReference.cache
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo_item.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_add_insumo.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categorias_contas.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_fornecedor.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_fechar.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_lancamento.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_forma_pagamento.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_historico.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_consulta_produto.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_fornecedores.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lancar_credito_cliente.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categoria.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_cliente.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_complemento.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto_personalizado.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tamanho.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_bandeira.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tipo.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_observacao.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_insumo.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_clientes.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_formas_pagamento.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lanca_produtos.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas_pedido.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_observacoes.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_ddd.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_estoque.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_complementos.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_insumos.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_produtos.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_tt.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias_contas.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.ListTamanhos.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.SplashScreen.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl1.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl_Complementos.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.WaitForm.resources
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+D:\Backup 18-05-2020\Arquivos Sources\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.AssemblyReference.cache
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo_item.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_add_insumo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categorias_contas.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_fornecedor.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_fechar.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_lancamento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_forma_pagamento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_historico.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_consulta_produto.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_fornecedores.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lancar_credito_cliente.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categoria.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_cliente.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_complemento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto_personalizado.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tamanho.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_bandeira.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tipo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_observacao.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_insumo.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_clientes.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_formas_pagamento.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lanca_produtos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas_pedido.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_observacoes.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_ddd.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_estoque.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_complementos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_insumos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_produtos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_tt.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias_contas.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.ListTamanhos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.SplashScreen.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl1.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl_Complementos.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.WaitForm.resources
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+C:\Users\adolf\Desktop\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.AssemblyReference.cache
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo_item.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_add_insumo.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categorias_contas.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_fornecedor.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_combo.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_fechar.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_lancamento.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_forma_pagamento.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_caixa_historico.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_consulta_produto.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_fornecedores.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lancar_credito_cliente.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_categoria.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_cliente.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_complemento.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto_personalizado.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tamanho.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_bandeira.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_tipo.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_observacao.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_insumo.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_clientes.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_formas_pagamento.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_lanca_produtos.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_mesas_pedido.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_observacoes.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_produto.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_cadastro_usuario.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_ddd.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_estoque.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_login.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_network.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_principal.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_complementos.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_insumos.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_produtos.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_tt.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_categorias_contas.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.frm_usuarios.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.ListTamanhos.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.Properties.Resources.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.SplashScreen.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl1.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.UserControl_Complementos.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef_Plus.WaitForm.resources
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.GenerateResource.cache
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe.licenses
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.CoreCompileInputs.cache
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.exe
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.pdb
+D:\Projetos\Chef Plus\Chef Plus\Chef Plus\obj\Debug\Chef Plus.csproj.SuggestedBindingRedirects.cache
